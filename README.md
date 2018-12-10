@@ -1,6 +1,6 @@
 # v-adhithyan.github.io
 
-  My portfolio site rolled vannila. http://adhithyan.xyz
+  My portfolio site rolled vannila. https://adhithyan.xyz
 
 ## Dependencies
 
